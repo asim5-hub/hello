@@ -35,7 +35,7 @@
 
 
 
-##import tkinter as tk
+##import tkinter 
 ##from tkinter import messagebox
 ##
 ### Function to validate the login
